@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.Box {
+    background: aqua;
+}
+.box1{
+color: red;
+margin: 5px;
+padding: 20px;
+height: 200px;
+
+}
+.box2{
+    color: blueviolet;
+}
+h1{
+    display: none;
+
+}
+h2{
+    visibility: hidden;
+}
+span{
+    background: orange;color:green; padding: 20px; display:inline-block;
+}
